@@ -5,4 +5,5 @@
 O notebook pode ser acessado [aqui](notebook/lab01.ipynb).
 
 ## Tarefa 2 sobre Engenharia Reversa
+Diagrama dos componentes principais do PokéAPI.
 ![Diagrama lab01](images/lab01.png)
