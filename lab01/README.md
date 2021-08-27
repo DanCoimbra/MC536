@@ -1,5 +1,5 @@
 # Aluno
-* Daniel Credico de Coimbra (RA 155077)
+* 155077: Daniel Credico de Coimbra
 
 ## Tarefa 1 sobre APIs de acesso
 O notebook pode ser acessado [aqui](notebook/lab01.ipynb).
