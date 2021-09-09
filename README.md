@@ -6,3 +6,6 @@ Os arquivos referentes ao laboratório 01 podem ser acessados [aqui](lab01).
 
 ## Laboratório 02
 Os arquivos referentes ao laboratório 02 podem ser acessados [aqui](lab02).
+
+## Laboratório 03
+Os arquivos referentes ao laboratório 03 podem ser acessados [aqui](lab03).
