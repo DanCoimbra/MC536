@@ -12,3 +12,12 @@ Os arquivos referentes ao laboratório 03 podem ser acessados [aqui](lab03).
 
 ## Laboratório 04
 Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab04).
+
+## Laboratório 05
+Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab05).
+
+## Laboratório 06
+Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab06).
+
+## Laboratório 07
+Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab07).
