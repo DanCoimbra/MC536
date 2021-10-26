@@ -21,3 +21,6 @@ Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab06).
 
 ## Laboratório 07
 Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab07).
+
+## Laboratório 09
+Os arquivos referentes ao laboratório 04 podem ser acessados [aqui](lab09).
